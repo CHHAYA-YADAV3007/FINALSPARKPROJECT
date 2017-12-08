@@ -1,0 +1,6 @@
+create 'Subscribed_Users','user_id','subscription_start_date','subscription_end_date'
+create 'Song_Artist_Map','song_id','artist_id'
+create 'User_Artist_Map','artist_id','user_id'
+create 'Station_Geo_Map','Geo-cd','station_id'
+
+
